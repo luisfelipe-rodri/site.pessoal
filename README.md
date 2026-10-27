@@ -4,4 +4,4 @@ Site acadêmico de Luis Felipe de Souza Rodrigues, economista e pesquisador do N
 
 **Acesse:** https://luisfelipe-rodri.github.io/site.pessoal/
 
-Página única em HTML, CSS e JavaScript, sem dependências, publicada no GitHub Pages. Inclui metadados e dados estruturados (schema.org) para indexação no Google.
+Página única em HTML, CSS e JavaScript, sem dependências, publicada no GitHub Pages.
